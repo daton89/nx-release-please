@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/daton89/nx-release-please/compare/nx-release-please-v1.5.0...nx-release-please-v1.6.0) (2022-07-26)
+
+
+### Features
+
+* **demo:** change title ([ec12d74](https://github.com/daton89/nx-release-please/commit/ec12d746562e5759e1d1badc351303bca8ac2658))
+
 ## [1.5.0](https://github.com/daton89/nx-release-please/compare/nx-release-please-v1.4.0...nx-release-please-v1.5.0) (2022-07-26)
 
 

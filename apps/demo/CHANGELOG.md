@@ -2,6 +2,13 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.3.0](https://github.com/daton89/nx-release-please/compare/demo-v1.2.0...demo-v1.3.0) (2022-07-26)
+
+
+### Features
+
+* **demo:** change title ([ec12d74](https://github.com/daton89/nx-release-please/commit/ec12d746562e5759e1d1badc351303bca8ac2658))
+
 ## [1.2.0](https://github.com/daton89/nx-release-please/compare/demo-v1.1.0...demo-v1.2.0) (2022-07-26)
 
 
