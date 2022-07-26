@@ -1,0 +1,8 @@
+{
+  "packages": {
+    ".": {},
+    "apps/demo": {},
+    "libs/feature-login": {},
+    "libs/ui-components": {}
+  }
+}
