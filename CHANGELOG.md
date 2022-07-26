@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/daton89/nx-release-please/compare/nx-release-please-v1.6.0...nx-release-please-v1.7.0) (2022-07-26)
+
+
+### Features
+
+* **ui:** change default text ([22efc8f](https://github.com/daton89/nx-release-please/commit/22efc8fcf619f90813e9d76d1ec578f12ce8959f))
+
 ## [1.6.0](https://github.com/daton89/nx-release-please/compare/nx-release-please-v1.5.0...nx-release-please-v1.6.0) (2022-07-26)
 
 
