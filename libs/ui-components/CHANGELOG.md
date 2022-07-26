@@ -2,6 +2,13 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.6.0](https://github.com/daton89/nx-release-please/compare/ui-components-v1.5.0...ui-components-v1.6.0) (2022-07-26)
+
+
+### Features
+
+* **release-please:** initial commit ([1672d84](https://github.com/daton89/nx-release-please/commit/1672d84ecbf30d958f0161b0263c8ff40f66efd6))
+
 ## [1.5.0](https://github.com/daton89/nx-release-please/compare/ui-components-v1.4.0...ui-components-v1.5.0) (2022-07-26)
 
 
