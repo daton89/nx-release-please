@@ -5,7 +5,7 @@ import { FeatureLogin } from '@nx-release-please/feature-login';
 export function App() {
   return (
     <>
-      <span>Demo app</span>
+      <span>Demo app changed</span>
       <FeatureLogin></FeatureLogin>
     </>
   );
