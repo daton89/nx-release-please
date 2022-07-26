@@ -5,7 +5,7 @@ export interface UiComponentsProps {
 }
 
 export function UiComponents(props: UiComponentsProps) {
-  const { text = 'Hallo thereeeeewwww' } = props;
+  const { text = 'Hi from ui components lib' } = props;
   return (
     <div className={styles['container']}>
       <span>{text}</span>
